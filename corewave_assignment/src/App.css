@@ -886,14 +886,7 @@ p {
     width: 100%;
     height: 125px;
     top: 122px;
-    font-family: Inter;
-    font-size: 22px;
-    font-weight: 500;
-    line-height: 31px;
-    letter-spacing: 0em;
     text-align: left;
-  
-  
   }
   .footer-fst-line {
     margin-top: 10px;
@@ -904,8 +897,6 @@ p {
   .footer-scnd-line{
     width: 200px;
     margin-left: 20px;
-
-   
   }
   .footer-container{
     width: 100%;
